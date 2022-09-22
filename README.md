@@ -12,3 +12,6 @@ or,
 it will generate the same regression report folder in target folder and generate all required outputs mentioned in plugin key in the RegressionRunner.java file.
 
 -- checked in the code in this staget with comment 'version2'
+
+Class 1 branch
+---------------
